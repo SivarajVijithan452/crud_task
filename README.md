@@ -19,7 +19,7 @@ MySQL
 
 ## Installation Steps
 
-Clone the Repository https://github.com/SivarajVijithan452/simple_track.git
+Clone the Repository https://github.com/SivarajVijithan452/crud_task.git
 
 Open your terminal and run the following command to clone the repository:
 
