@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Simple Task Tracker</title>
+    <title>CRUD</title>
     <!-- Link to Vite for CSS assets -->
     @vite('resources/css/app.css')
 </head>
